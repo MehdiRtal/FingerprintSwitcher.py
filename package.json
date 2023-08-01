@@ -1,0 +1,13 @@
+{
+    "name": "fingerprintswitcher",
+    "bin": "fingerprintswitcher.js",
+    "pkg": {
+        "targets": [
+            "win-x64"
+        ]
+    },
+    "dependencies": {
+        "argparse": "^2.0.1",
+        "browser-with-fingerprints": "^1.3.0"
+    }
+}
